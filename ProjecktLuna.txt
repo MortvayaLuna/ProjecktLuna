@@ -1,0 +1,34 @@
+BACKEND:
+Passo 1- configurar um server sql com os itens:
+Produto:  ID (gerado automaticamente), Nome, Descrição, Preço, Quantidade em estoque, Categoria (referência a uma Categoria) FEITO
+Categoria: ID (gerado automaticamente), Nome, Descrição
+
+Passo 2- criar api com spring boot pra gerenciar o server
+
+Passo 3- integrar api com o server
+
+Passo 4- testar
+
+Passo 5- configurar o acesso
+
+Passo 6- testar
+
+Passo 7- documentar a api no swagger
+
+FRONTEND:
+Passo 8- criar um app angular pro backend
+
+Passo 9- criar layout em bootstrap com as funcinalidades:
+listar todos os produtos    adicionar um novo produto
+atualizar um produto existente     excluir um produto
+listar todas as categorias     adicionar uma nova categoria
+atualizar uma categoria existente      excluir uma categoria
+validação de formulario
+
+Passo 10- testar
+
+NÃO ESQUECA DOS README.MD :)
+
+
+
+ 
